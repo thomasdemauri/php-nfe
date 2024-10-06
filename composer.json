@@ -1,0 +1,21 @@
+{
+    "name": "thomas/php-nfe",
+    "version": "1.0.0",
+    "description": "Simples leitor de Notas Fiscais.",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Thomas Mauro",
+            "email": "thom_mauro@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Thomas\\NFe\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
