@@ -3,7 +3,9 @@
 Esta simples classe retorna um array contendo os dados da Nota Fiscal.
 
 ### Instalação
+```shell 
 composer require thomasmauro/php-nfe
+```
 
 ### Demonstração de uso
 ```php
