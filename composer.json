@@ -1,5 +1,5 @@
 {
-    "name": "thomas/php-nfe",
+    "name": "thomasmauro/php-nfe",
     "version": "1.0.0",
     "description": "Simples leitor de Notas Fiscais.",
     "type": "library",
